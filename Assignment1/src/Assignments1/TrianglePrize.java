@@ -1,4 +1,4 @@
-package Package;
+package Assignments1;
 import java.util.Scanner;
 public class TrianglePrize {
 
